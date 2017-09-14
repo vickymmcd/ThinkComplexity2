@@ -1,6 +1,4 @@
-https://arxiv.org/pdf/1707.07187.pdf
-Hipsters on Networks: How a Small Group of Individuals Can Lead to an Anti-Establishment Majority
-Jonas S. Juul, Mason A. Porter
-July 25, 2017
+[Hipsters on Networks: How a Small Group of Individuals Can Lead to an Anti-Establishment Majority](https://arxiv.org/pdf/1707.07187.pdf),
+*Jonas S. Juul, Mason A. Porter*; July 25, 2017.
 
 The authors analyzed the impact of non conformists on two competing products by using a hipster threshold model and examining it in different types of networks including a Erdos-Renyi network. They were looking into how ideas that originated in a small subpopulation can spread to a large fraction of the nodes in a network. In this theoretical system there are multiple competing products and anti conformists spreading unusual products to the majority. After developing this model, the authors mathematically analyzed the conclusions and simulated the model on various synthetic networks. This model is interesting because it shows how anti establishment forces can gain power in politics and society. It also shows how unexpected parties, like Donald Trump in the most recent U.S. presidential election, might win elections and take office. There was not much validation of the model given in this paper, but it did draw some interesting conclusions. The results of the experiment show that even with a small number of non conformists, the products that originate with the non conformists or "hipsters" can become comparably or even more popular than other products. This led the authors to conclude that the anti establishment can in fact have a very large impact on the majority in a network. 
