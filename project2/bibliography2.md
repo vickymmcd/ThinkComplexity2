@@ -1,0 +1,1 @@
+<a href="http://sct.uab.cat/lsds/sites/sct.uab.cat.lsds/files/FROM%20FACTORS%20TO%20ACTORS%20(Macy%20and%20Willer%202002).pdf">FROM FACTORS TO ACTORS: Computational Sociology and Agent-Based Modeling</a>, *Michael W. Macy and Robert Willer*; 2002.
